@@ -1,0 +1,40 @@
+{
+    "name": "بدايه - Job Application Platform",
+    "short_name": "بدايه",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1E3A8A",
+    "theme_color": "#1E3A8A",
+    "description": "منصة التقديم للوظائف - ابدأ مسيرتك المهنية معنا",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "type": "image/x-icon",
+            "sizes": "16x16 32x32"
+        },
+        {
+            "src": "/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/icon-192-maskable.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/icon-512-maskable.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
